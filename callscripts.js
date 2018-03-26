@@ -21,9 +21,9 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*3)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/03/how-to-start-trading.html"}
-if(x=="2"){xxx="/2018/03/best-health-insurance-providers.html"}
-if(x=="3"){xxx="/2018/03/what-is-health-care-management.html"}a_to_ve[i].href="https://linkcuy.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/p/how-to-start-trading.html"}
+if(x=="2"){xxx="/p/best-health-insurance-providers.html"}
+if(x=="3"){xxx="/p/what-is-health-care-management.html"}a_to_ve[i].href="https://linkcuy.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)

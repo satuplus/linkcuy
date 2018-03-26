@@ -1,0 +1,2 @@
+# linkcuy
+shortlink cuy
